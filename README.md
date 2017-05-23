@@ -7,6 +7,12 @@
 
 This is a library which generates a link for coinpayments.net
 
+## Installing
+
+```bash
+npm i generate-coinpayments-link --save
+```
+
 ## Contributing
 
 You can support us in many ways.
