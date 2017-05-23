@@ -1,0 +1,23 @@
+{
+  "name": "generate-coinpayments-link",
+  "version": "1.0.0",
+  "description": "Generate payment link for coinpayments.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolim1t/generate-coinpayments-link.git"
+  },
+  "author": "https://21.co/barryt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nolim1t/generate-coinpayments-link/issues"
+  },
+  "homepage": "https://github.com/nolim1t/generate-coinpayments-link#readme",
+  "dependencies": {
+    "fuckingundefinedemptynull": "^1.0.0",
+    "jest": "^20.0.3"
+  }
+}
